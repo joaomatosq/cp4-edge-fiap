@@ -6,3 +6,6 @@ Este projeto da matéria de Edge Computing na FIAP demonstra como acionar uma l�
 - FIWARE Orion Context Broker: Para gerenciar as entidades de contexto.
 - Wokwi: Para simulação de dispositivos, neste caso, uma lâmpada.
 - Postman: Para testar as requisições HTTP.
+
+## link para o wokwi:
+https://wokwi.com/projects/425015707065648129
